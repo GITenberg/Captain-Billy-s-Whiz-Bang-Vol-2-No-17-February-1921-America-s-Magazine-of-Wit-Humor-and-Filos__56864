@@ -1,5 +1,8 @@
 _repo: Captain-Billy-s-Whiz-Bang-Vol-2-No-17-February-1921-America-s-Magazine-of-Wit-Humor-and-Filos__56864
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56864-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '48512'
     url: http://www.gutenberg.org/2009/agents/48512
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56864#Captain-Billy-s-Whiz-Bang-Vol-2-No-17-February-1921-America-s-Magazine-of-Wit-Humor-and-Filos_
 gutenberg_issued: '2018-03-28'
 gutenberg_type: Text
 identifiers:
